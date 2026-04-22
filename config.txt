@@ -1,0 +1,34 @@
+"config" = "Hilfeprogramm.exe"
+
+"enable_remote_warning" = "true"
+
+"enable_insecure_remote_help" = "true"
+
+"enable_insecure_ai_help" = "false"
+
+"windowtitle" = "Hilfe Tool"
+
+"welcome_message" = "Wie kann ich dir heute helfen?"
+
+#icons, button texte und beschreibung
+#von links nach rechts
+
+#Erster icon
+"monitor_fix_icon_filename" = "monitorfixicon.png"
+"desc_1" = "Tafel/Smartboard"
+"button1_text" = "Fix"
+
+#Zweiter icon
+"audio_icon_filename" = "audiofixicon.png"
+"desc_2" = "Ton/Audio"
+"button2_text" = "Fix"
+
+#Dritter icon
+"remote_icon_filename" = "remoteicon.png"
+"desc_3" = "Remote Hilfe"
+"button3_text" = "Fix"
+
+#Versteckter vierter icon
+"ai_help_icon_filename" = "icon3.png"
+"desc_4" = "KI Hilfe"
+"button3_text" = "Start"
